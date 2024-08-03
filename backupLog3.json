@@ -1,0 +1,12 @@
+[
+  {
+    "database": "logbackup",
+    "collection": "backupLog",
+    "try": 1
+  },
+  {
+    "database": "logbackup",
+    "collection": "backupLog2",
+    "try": 1
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "database": "database2",
+    "collection": "coal",
+    "try": 1
+  },
+  {
+    "database": "database2",
+    "collection": "darah",
+    "try": 1
+  },
+  {
+    "database": "database2",
+    "collection": "hasil_buruan",
+    "try": 1
+  },
+  {
+    "database": "database2",
+    "collection": "ikan",
+    "try": 1
+  },
+  {
+    "database": "database2",
+    "collection": "ingot",
+    "try": 1
+  },
+  {
+    "database": "database2",
+    "collection": "inventory",
+    "try": 4
+  },
+  {
+    "database": "database2",
+    "collection": "kayu",
+    "try": 1
+  },
+  {
+    "database": "database2",
+    "collection": "level",
+    "try": 1
+  },
+  {
+    "database": "database2",
+    "collection": "ore",
+    "try": 1
+  },
+  {
+    "database": "database2",
+    "collection": "planet",
+    "try": 1
+  },
+  {
+    "database": "database2",
+    "collection": "stone",
+    "try": 1
+  },
+  {
+    "database": "database2",
+    "collection": "uang",
+    "try": 1
+  }
+]

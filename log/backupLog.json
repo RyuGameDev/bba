@@ -1,0 +1,102 @@
+[
+  {
+    "database": "database1",
+    "collection": "afk",
+    "try": 1
+  },
+  {
+    "database": "database1",
+    "collection": "antilink",
+    "try": 2
+  },
+  {
+    "database": "database1",
+    "collection": "antiwame",
+    "try": 2
+  },
+  {
+    "database": "database1",
+    "collection": "balance",
+    "try": 1
+  },
+  {
+    "database": "database1",
+    "collection": "closegc",
+    "try": 3
+  },
+  {
+    "database": "database1",
+    "collection": "command",
+    "try": 1
+  },
+  {
+    "database": "database1",
+    "collection": "commandUser",
+    "try": 1
+  },
+  {
+    "database": "database1",
+    "collection": "kickme",
+    "try": 2
+  },
+  {
+    "database": "database1",
+    "collection": "left",
+    "try": 2
+  },
+  {
+    "database": "database1",
+    "collection": "limit",
+    "try": 1
+  },
+  {
+    "database": "database1",
+    "collection": "list-message",
+    "try": 1
+  },
+  {
+    "database": "database1",
+    "collection": "mute",
+    "try": 2
+  },
+  {
+    "database": "database1",
+    "collection": "nsfw",
+    "try": 2
+  },
+  {
+    "database": "database1",
+    "collection": "premium",
+    "try": 1
+  },
+  {
+    "database": "database1",
+    "collection": "set_left",
+    "try": 1
+  },
+  {
+    "database": "database1",
+    "collection": "set_welcome",
+    "try": 1
+  },
+  {
+    "database": "database1",
+    "collection": "sewa",
+    "try": 1
+  },
+  {
+    "database": "database1",
+    "collection": "stik",
+    "try": 2
+  },
+  {
+    "database": "database1",
+    "collection": "user",
+    "try": 4
+  },
+  {
+    "database": "database1",
+    "collection": "welcome",
+    "try": 2
+  }
+]
