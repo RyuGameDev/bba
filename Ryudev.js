@@ -169,9 +169,9 @@ logger: pino({ level: "silent" }),
     browser: ['Chrome (Linux)', '', '']
   });
   if (usePairingCode && !Aira.authState.creds.registered) {
-    const phoneNumber = await question(
+   /* const phoneNumber = await question(
       "Enter a number starting with 62 Example 62xxxxx:\n"
-    );
+    );*/
     const code = await Aira.requestPairingCode(62856486407152);
     console.log(`Pairing code: ${code}`);}
 
