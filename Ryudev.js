@@ -172,7 +172,7 @@ logger: pino({ level: "silent" }),
    /* const phoneNumber = await question(
       "Enter a number starting with 62 Example 62xxxxx:\n"
     );*/
-    const code = await Aira.requestPairingCode(62856486407152);
+    const code = await Aira.requestPairingCode('62856486407152');
     console.log(`Pairing code: ${code}`);}
 
 require("./aira.ryujin")
