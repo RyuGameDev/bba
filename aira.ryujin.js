@@ -11842,27 +11842,27 @@ let todd = await getBuffer(search.all[0].image)
 const ytdl = require('ytdl-core')
 const cookiess = [
   { name: "GPS", value: "1" },
-  { name: "YSC", value: "j6AMUoLuAhI" },
-  { name: "VISITOR_INFO1_LIVE", value: "VYxScBxG8QY" },
-  { name: "VISITOR_PRIVACY_METADATA", value: "CgJJRBIEGgAgLw%3D%3D" },
+  { name: "YSC", value: "w7h0VpfBKY0" },
+  { name: "VISITOR_INFO1_LIVE", value: "oK3W4cxqJQo" },
+  { name: "VISITOR_PRIVACY_METADATA", value: "CgJJRBIEGgAgFg%3D%3D" },
   { name: "PREF", value: "tz=Asia.Jakarta" },
-  { name: "__Secure-1PSIDTS", value: "sidts-CjIB4E2dkcOaYd46wxQ9KKfE0JzIIuViUCM2QggynfdN0pDrBiG7j-oOdzYsMjr-TDRxahAA" },
-  { name: "__Secure-3PSIDTS", value: "sidts-CjIB4E2dkcOaYd46wxQ9KKfE0JzIIuViUCM2QggynfdN0pDrBiG7j-oOdzYsMjr-TDRxahAA" },
-  { name: "HSID", value: "AEP_LFb68m3U6-fdU" },
-  { name: "SSID", value: "A6kAlf4pT-v8akZZU" },
-  { name: "APISID", value: "20dOWkLjpfVUdXqy/ALXS-G0TPvd0cir3P" },
-  { name: "SAPISID", value: "GMS7jo_i4Ol0SDnm/AtR11kiFtHpUZ32Q-" },
-  { name: "__Secure-1PAPISID", value: "GMS7jo_i4Ol0SDnm/AtR11kiFtHpUZ32Q-" },
-  { name: "__Secure-3PAPISID", value: "GMS7jo_i4Ol0SDnm/AtR11kiFtHpUZ32Q-" },
-  { name: "LOGIN_INFO", value: "AFmmF2swRgIhALhTy3WECkXtKbtxAztGjIxwAF_Ew-N22osNc-cgLx5iAiEAtqYQ5WasaVQhJwod8pyuCTEHnk-uQ-70cksdK_al1u0:QUQ3MjNmeF95UDlIZC1uZjl5ZHJIX2dzY2E0Vndoak8xbnpmVWp2YnhKNFZqa1VseEYzck5fZVRyYW54ZjR1anNUUEd0VERyUXVDXzN6M2VSRDcwbmpkdVFyZDZwNi1uRzUzcERfMGNnSE1OYnVfZ09PY0dKMXNtNmE4NUZWZE1uQkM4ejhGSDU1cHE2RjBtbnpnLW10U0VhcnRmcnFJRnF3" },
-  { name: "YTSESSION-jnufdw", value: "ANPz9KjFjycAmOsIpBNsCoYaFnBpLpgRjsaELUklP4KHDMbb3pZrV/GFT3QlmdtQl5c/5b52EOWRcUKKazbAv65TMazcYNuwTsKF3uY=" },
-  { name: "SID", value: "g.a000mAjFFMaVyfQsXpNM547GAEN1jP2wmgwVm1LVcinDsZXu1pYq4W3yOtFOPfOzMz3b-dwVQAACgYKAWESARYSFQHGX2Mi0t41u-16mQGpxA4BJHOiWRoVAUF8yKrVKIkNTEW2lYBJ5gOqMqM30076" },
-  { name: "__Secure-1PSID", value: "g.a000mAjFFMaVyfQsXpNM547GAEN1jP2wmgwVm1LVcinDsZXu1pYqVqa0V1UgY7qtOI2NZOqU8QACgYKAfISARYSFQHGX2MilibnR4Vo479T1nBULylaFBoVAUF8yKrD9y5hxiF38dQ1rnLrIpRc0076" },
-  { name: "__Secure-3PSID", value: "g.a000mAjFFMaVyfQsXpNM547GAEN1jP2wmgwVm1LVcinDsZXu1pYqNSdqRgskQKEzRsDXX5uI3wACgYKAUYSARYSFQHGX2MiTkAE_L5ddi5YkHq5HENQPxoVAUF8yKr6vkPcQIv2UJD5WMFFi0tI0076" },
-  { name: "SIDCC", value: "AKEyXzUYxsQajmiu71Fs6KbBgxdSW6rsZvAma77-fDgNgs2bJfHQ4EXYugZlgmdrtaH4yk7l" },
-  { name: "__Secure-1PSIDCC", value: "AKEyXzWPOa-Y54RCPOgkpEIcJ2GmxDHHccRWXFBhkNw5a1k0K-Wym-FSw29Jmu--UpyaF9lF" },
-  { name: "__Secure-3PSIDCC", value: "AKEyXzUpZGaTEgfXWjNGYIyR5z0Z_8-nbYG536X4KdkoTySDGpsV8XoC96bIeoY6PPxaKNfX" }
+  { name: "SID", value: "g.a000mwjFFBNa4sBo1pMz5ZerO-hCDgQ-ANRRAxP0f50Ua6DZ62Ybu9lwFRZcz280kH7b5WlyIQACgYKAZESARYSFQHGX2MiU1a-oeYUtZMt5v96AB_AaBoVAUF8yKpZUlopRV7jL9k27CNkC_oz0076" },
+  { name: "__Secure-1PSID", value: "g.a000mwjFFBNa4sBo1pMz5ZerO-hCDgQ-ANRRAxP0f50Ua6DZ62YbYVHFwebDNHr4OmcqK4O5aAACgYKAY8SARYSFQHGX2MiFZ7pHfNI3momH34mT93XxxoVAUF8yKqFKvWfcs2_Lpbytg-yZ6C30076" },
+  { name: "__Secure-3PSID", value: "g.a000mwjFFBNa4sBo1pMz5ZerO-hCDgQ-ANRRAxP0f50Ua6DZ62YbSEtg1Eft0aqr6AvS_Szv9wACgYKAXUSARYSFQHGX2MiwVURDbNn45H8CUN5QQEr1BoVAUF8yKpEg_NnEGZeiAICc8N6dQh40076" },
+  { name: "HSID", value: "AB4xEcjotKDA1IUU_" },
+  { name: "SSID", value: "AIP7-THLQakhWok2O" },
+  { name: "APISID", value: "7M-G1McmcntFJFUL/AF1Evsqtn_BV_ahYL" },
+  { name: "SAPISID", value: "URSo2uL9ZiorRyYF/AtfwnVSeEDhyLuXl8" },
+  { name: "__Secure-1PAPISID", value: "URSo2uL9ZiorRyYF/AtfwnVSeEDhyLuXl8" },
+  { name: "__Secure-3PAPISID", value: "URSo2uL9ZiorRyYF/AtfwnVSeEDhyLuXl8" },
+  { name: "__Secure-1PSIDTS", value: "sidts-CjEB4E2dkZKm9U-qr03fKlB6qAkT49R1UTw4OD5Vy3a-ekvYFztlK_fw2Ml_BCt7f36pEAA" },
+  { name: "__Secure-3PSIDTS", value: "sidts-CjEB4E2dkZKm9U-qr03fKlB6qAkT49R1UTw4OD5Vy3a-ekvYFztlK_fw2Ml_BCt7f36pEAA" },
+  { name: "LOGIN_INFO", value: "AFmmF2swRgIhAMQsqH5EA2ZazgYvEpZMwjgv1-75IjNylD9PznT9hwl5AiEAkHBEPnGlOl-do-0B6HN2Ye6ISIyd_TRqbBLCYhU9MH4:QUQ3MjNmdzlyZWJPYWg2TDQxclpqT0cxT3FQVXY0cHRFVDhBZ3VFTzJzMno1b0dRUWJab1I5bzZtOFNYMlpiUXRPcjdpamRSLVlDNmtDN205Vl9vbFdGTXE4RUNzWkZCZWxiNXAwY3JNLWpBeDNlTHZNcWw5TDB6Wnp4QlNOWUV4NlU4c0hBTVl4dXEzNVlXcmg3bVAwZ01xbFlXRGtUbG5n" },
+  { name: "SIDCC", value: "AKEyXzX78mNNpYppSyEjJh5Hg1IvPV0n8mUZfHWaml8jXa1xC6sHWqIYumjhEBs2hkNiZtPm" },
+  { name: "__Secure-1PSIDCC", value: "AKEyXzVl8Z7y_8Pm1Ip9r012CIiCX4eje9pKnzbC_gLWsqavS4iFkuuQLqDTBXo7tfXFZlToQw" },
+  { name: "__Secure-3PSIDCC", value: "AKEyXzUO0SZtxcl5xNHROolDn79Rmr6Jbi1J3l94PaZ74dy9OFFTpfOYrZxJlpxSutQHPrdnlw" }
 ];
+
 
 const agentOptions = {
   pipelining: 5,
